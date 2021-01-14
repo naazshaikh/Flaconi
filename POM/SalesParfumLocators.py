@@ -1,0 +1,1 @@
+product_sales = "//div[@class = 'content']/div[1]/div[1]/ul/li[2]"
